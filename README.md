@@ -59,6 +59,10 @@
 
 그래서 우리는 모바일에 추억을 보관할 수 있는 AR 타임캡슐 어플리케이션, 'MARS'를 기획했다.<br/>
 
+## 시스템 설계도
+![image](https://user-images.githubusercontent.com/79440419/131976464-a75ca61d-0a1b-4592-9ad8-09bb20eedad1.png)
+
+
 ### `MARS에서 그 시절, 그 곳으로의 여행을 떠나보세요.`
 
 <br/>
