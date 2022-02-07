@@ -149,12 +149,3 @@ https://www.notion.so/8cc6d35e219d4626b1a6bf02c58b7e49?v=7f81cb099ded43f8bafd4d4
 
 <br/><br/>
 
-
-## 배포시 수정사항
-Rest api에서 tempJwt는 테스트용이었으므로 삭제해야함
-<br/><br/>
-
-## 👀 UCC 영상
-
-[MARS UCC영상 보러가기](https://youtu.be/S0zKjg2Sw3s)
-
