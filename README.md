@@ -10,7 +10,6 @@
 
 - 테스트  : 카카오 계정 로그인(이메일 계정 제공에 꼭 동의 해야 합니다⭐️)
 - 구글 플레이 스토어 URL : https://play.google.com/store/apps/details?id=com.a403.mars
-- 설치 URL : http://k4a403.p.ssafy.io:8080/
 - 안드로이드 설치 가이드 : https://www.notion.so/MARS-387c7e640fe942cbb5cb45db3002a1a5
 
 <br/><br/>
